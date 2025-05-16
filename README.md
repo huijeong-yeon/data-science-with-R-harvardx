@@ -1,19 +1,16 @@
-# 📊 Statistics and R (HarvardX – PH525.1x)
+# 📊 R Coursework – HarvardX
 
-Coursework in statistical analysis using R, from HarvardX's **PH525.1x** taught by Prof. Rafael Irizarry.
+This repository contains R programming exercises and data analysis projects from two HarvardX programs:
 
-🧠 **Topics Covered**
-- Descriptive statistics
-- Probability and statistical inference
-- Linear regression in R
-- Base plotting functions (no external libraries)
+## 📘 Courses
 
-## 📦 Dependencies
+- **PH525.1x: Statistics and R**  
+  Introductory course covering descriptive statistics, vector operations, and simulation
 
-This repository uses **base R only** — no additional packages required.  
-All analyses and plots are implemented using built-in functions such as `tapply`, `aggregate`, `plot`, and `boxplot`.  
-This ensures full reproducibility across any R environment without installing additional libraries.
+- **Data Science Professional Certificate Projects**  
+  Applied analysis using real-world datasets
 
-📁 **Contents**
-- `.R` scripts from hands-on assignments
-- Sample plots and numerical outputs
+## 📁 Structure
+
+- `PH525.1x-Statistics-and-R/`: Scripts from Statistics and R course
+- `DataScience-Projects/`: Independent EDA and testing projects
