@@ -1,16 +1,17 @@
-# 📊 R Coursework – HarvardX
+# 🎥 Movielens Dataset Exploration
 
-This repository contains R programming exercises and data analysis projects from two HarvardX programs:
+This exercise is part of the HarvardX PH125.1x - R Basics course.
 
-## 📘 Courses
+## ✅ Covered Topics
 
-- **PH525.1x: Statistics and R**  
-  Introductory course covering descriptive statistics, vector operations, and simulation
+- `nrow()`, `ncol()`, `str()`
+- `class()` for variable type
+- `nlevels()` for factor analysis
 
-- **Data Science Professional Certificate Projects**  
-  Applied analysis using real-world datasets
+## 📦 Package Used
 
-## 📁 Structure
+- `dslabs` (to load the `movielens` dataset)
 
-- `PH525.1x-Statistics-and-R/`: Scripts from Statistics and R course
-- `DataScience-Projects/`: Independent EDA and testing projects
+## 💻 File
+
+- `movielens_exploration.R`
