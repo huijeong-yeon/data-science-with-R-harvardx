@@ -4,7 +4,7 @@ This exercise is part of the HarvardX PH125.1x - R Basics course.
 
 ## ✅ Covered Topics
 
-- `nrow()`, `ncol()`, `str()`
+- `nrow()`, `ncol()`
 - `class()` for variable type
 - `nlevels()` for factor analysis
 
