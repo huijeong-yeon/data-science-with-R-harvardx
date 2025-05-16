@@ -1,4 +1,4 @@
-# 🫒 Olive Exploration
+# 🫒 Olive Dataset Exploration
 
 This folder contains R code and visualizations using the `olive` dataset from the `dslabs` package.
 
