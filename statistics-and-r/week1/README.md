@@ -20,6 +20,7 @@ This folder contains practice scripts from Week 1 of the HarvardX course *Statis
 - `week1_female_mice_weights.R`: Analysis of the `femaleMiceWeights.csv` dataset including diet filtering and sampling
 - `week1_msleep_ggplot2.R`: Analysis of animal sleep data using `msleep_ggplot2.csv`, with filtering and summarization
 - `week1_skew_analysis.R`: QQ-plot and histogram-based assessment of skewed distributions using `skew.RData
+- `week1_insect_sprays.R`: Comparative boxplot analysis using `InsectSprays` dataset, including identification of most effective spray and visual outliers
 
 ## 📦 Packages Used
 
