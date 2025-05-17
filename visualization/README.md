@@ -1,6 +1,6 @@
-# 📊 Data Science: Visualization – HarvardX(PH125.2x)
+# 📊 Data Science: Visualization – HarvardX (PH125.2x)
 
-This folder contains coursework and exercises from the HarvardX course *Data Science: Visualization*(PH125.2x), focused on data visualization techniques in R using `ggplot2`, `dplyr`, and best practices for effective graphical presentation.
+This folder contains coursework and exercises from the HarvardX course *Data Science: Visualization* (PH125.2x), focused on data visualization techniques in R using `ggplot2`, `dplyr`, and best practices for effective graphical presentation.
 
 ## 📅 Sections
 
@@ -15,3 +15,7 @@ This folder contains coursework and exercises from the HarvardX course *Data Sci
 - `ggplot2`
 - `dplyr`
 - `dslabs`
+
+## 📁 Files
+
+- `section1_murders_distribution.R`: Bar plot and proportion analysis using the `murders` dataset (region, population, murder rates).
