@@ -10,7 +10,10 @@ This folder contains solutions to questions based on the `heights` dataset from 
 - Using `match()`, `%in%`, `sum()`, and `mutate()`
 - Unit conversion (inches → centimeters)
 - Filtering by conditions using `dplyr`
-
+- Counting observations by condition (e.g., height < 5 feet)
+- Encoding categorical variables using `ifelse()`
+- Conditional replacement of numeric vectors
+- Writing custom functions in R
   
 - ---
 
