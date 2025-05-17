@@ -7,7 +7,7 @@ url <- "https://raw.githubusercontent.com/genomicsclass/dagdata/master/inst/extd
 filename <- "femaleMiceWeights.csv" 
 download(url, destfile=filename)
 
-## Read the CSV file
+### Read the data
 data <- read.csv("femaleMiceWeights.csv")
 
 colnames(data)
@@ -20,7 +20,7 @@ nrow(data)
 
 mean(data$Bodyweight[data$Diet == "hf"])
 
-# Extract the Bodyweight for row indices 13 to 24
+### Extract the Bodyweight for row indices 13 to 24
 set.seed(1)
 random_row <- sample(13:24, 1)
 data$Bodyweight[random_row]
