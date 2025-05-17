@@ -1,4 +1,4 @@
-#Week1 Getting started
+# Week1 Getting started
 
 ## Check the type of the cars dataset
 class(cars)
