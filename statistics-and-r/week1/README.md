@@ -6,11 +6,14 @@ This folder contains practice scripts from Week 1 of the HarvardX course *Statis
 
 - Inspecting base R datasets (e.g., `cars`)
 - Using `class()`, `nrow()`, `colnames()` for dataset exploration
-- Subsetting data with `[ , ]`
-- Calculating means using `mean()`
-- Locating rows with conditions using `which()`
-- Filtering data by condition (`data$Diet == "hf"`)
+- Subsetting data with `[ , ]` and `$`
+- Filtering data with `filter()`
+- Selecting columns with `select()`
+- Calculating means with `mean()`, `unlist()`, and `summarize()`
+- Using `%>%` (pipe operator) to chain operations
+- Filtering and summarizing by condition (e.g., primates’ sleep data)
 - Random sampling with `sample()` and `set.seed()`
+- `week1_msleep_ggplot2.R`: Analysis of sleep data for animals using `msleep_ggplot2.csv`, including primates-focused filtering and summarization
 
 ## 📁 Files
 
@@ -19,5 +22,6 @@ This folder contains practice scripts from Week 1 of the HarvardX course *Statis
 
 ## 📦 Packages Used
 
-- Base
+- Base R
+- `dplyr`
 - `downloader`
