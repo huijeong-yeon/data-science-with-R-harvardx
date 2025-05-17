@@ -13,12 +13,13 @@ This folder contains practice scripts from Week 1 of the HarvardX course *Statis
 - Using `%>%` (pipe operator) to chain operations
 - Filtering and summarizing by condition (e.g., primates’ sleep data)
 - Random sampling with `sample()` and `set.seed()`
-- `week1_msleep_ggplot2.R`: Analysis of sleep data for animals using `msleep_ggplot2.csv`, including primates-focused filtering and summarization
 
 ## 📁 Files
 
 - `week1_cars_analysis.R`: Exploratory analysis of the `cars` dataset using base R
 - `week1_female_mice_weights.R`: Analysis of the `femaleMiceWeights.csv` dataset including diet filtering and sampling
+- `week1_msleep_ggplot2.R`: Analysis of animal sleep data using `msleep_ggplot2.csv`, with filtering and summarization
+- `week1_skew_analysis.R`: QQ-plot and histogram-based assessment of skewed distributions using `skew.RData
 
 ## 📦 Packages Used
 
