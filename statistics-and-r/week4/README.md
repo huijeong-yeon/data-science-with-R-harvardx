@@ -7,7 +7,6 @@ This folder contains R scripts from Week 4 of the HarvardX course *Statistics an
 - Correlation and group comparison using marathon data (`nym.2002`)
 - Data reshaping and outlier impact analysis using chick growth data (`ChickWeight`)
 - Robustness of summary statistics (mean, median, sd, mad)
-- Pearson vs Spearman correlation
 - t-tests vs Wilcoxon tests under outlier conditions
 - Effect of group shifting on test statistics
 
