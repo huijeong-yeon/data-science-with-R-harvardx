@@ -1,4 +1,4 @@
-# Week2 Week 2 Random Variables and Probability Distributions
+# Week2 Random Variables and Probability Distributions
 
 ## Download the file
 library(downloader) 
