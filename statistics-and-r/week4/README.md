@@ -4,19 +4,14 @@ This folder contains R scripts from Week 4 of the HarvardX course *Statistics an
 
 ## ✅ Topics Covered
 
-- Pearson correlation between age and marathon finish time by gender
-- Age group stratification (5-year intervals)
-- Scatterplots and boxplots for visual analysis
-- Ratio analysis:
-  - Fastest time divided by the median
-  - Slowest time divided by the median
+- Correlation and group comparison using marathon data (`nym.2002`)
+- Data reshaping and outlier impact analysis using chick growth data (`ChickWeight`)
+- Robustness of summary statistics (mean, median, sd, mad)
+- Pearson vs Spearman correlation
+- t-tests vs Wilcoxon tests under outlier conditions
+- Effect of group shifting on test statistics
 
 ## 📁 Files
 
 - `week4_nym2002.R`: Correlation analysis, grouped visualizations, and descriptive ratio calculations using `nym.2002`.
-
-## 📦 Packages Used
-
-- Base R
-- `dplyr`
-- `UsingR`
+- `week4_Chick_Weight.R`: Outlier sensitivity and inference comparison using ChickWeight data.
