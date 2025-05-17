@@ -14,8 +14,10 @@ This folder contains R scripts from Week 2 of the HarvardX course *Statistics an
 ## 📁 Files
 
 - `week2_female_Controls_Population.R`: Simulates repeated sampling from a population of female control weights to evaluate sampling error and variability using absolute differences from the population mean.
+- `week2_gapminder_1952.R`: Analysis of life expectancy distribution across countries in 1952 using the gapminder dataset, including histogram and proportion of countries with life expectancy ≤ 40.
 
 ## 📦 Packages Used
 
 - Base R
-- `downloader`: for downloading data
+- `gapminder`
+- `downloader`
