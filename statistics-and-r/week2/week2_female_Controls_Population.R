@@ -10,5 +10,5 @@ x <- unlist( read.csv(filename) )
 ## RNG settings
 RNGkind("Mersenne-Twister", "Inversion", "Rejection")
 
-###the average of weights
+### Average of weights
 mean(x)
