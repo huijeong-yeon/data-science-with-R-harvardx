@@ -1,6 +1,6 @@
-# 📊 Data Science: Visualization – HarvardX
+# 📊 Data Science: Visualization – HarvardX(PH125.2x)
 
-This folder contains coursework and exercises from the HarvardX course *Data Science: Visualization*, focused on data visualization techniques in R using `ggplot2`, `dplyr`, and best practices for effective graphical presentation.
+This folder contains coursework and exercises from the HarvardX course *Data Science: Visualization*(PH125.2x), focused on data visualization techniques in R using `ggplot2`, `dplyr`, and best practices for effective graphical presentation.
 
 ## 📅 Sections
 
