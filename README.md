@@ -1,4 +1,4 @@
- # 📘 Data-science-with-R-harvardx
+# 📘 Data-science-with-R-harvardx
 
 This repository contains coursework, code, and notes from two R-based programs offered by HarvardX on edX:
 
@@ -8,7 +8,6 @@ This repository contains coursework, code, and notes from two R-based programs o
 2. **HarvardX Data Science Professional Certificate** (9-course series)  
    - Covers data wrangling, probability, inference, machine learning, and a capstone project
 
-
 ---
 
 ## 🧠 Topics Covered
@@ -16,8 +15,8 @@ This repository contains coursework, code, and notes from two R-based programs o
 - Descriptive statistics & probability
 - Statistical inference & modeling
 - Data wrangling & productivity tools
-- Visualization & linear regression
-- Machine learning with R
+- **Data visualization with ggplot2**
+- Linear regression & machine learning
 - Capstone data analysis
 
 ---
@@ -28,6 +27,7 @@ This repository contains coursework, code, and notes from two R-based programs o
 |--------|--------|-------------|
 | [`r-basics/`](./r-basics/) | PH125.1x | Exercises from R Basics (PH125.1x) |
 | [`statistics-and-r/`](./statistics-and-r/) | PH525.1x | Exercises from Statistics and R (PH525.1x) |
+| [`visualization/`](./visualization/) | PH125.2x | Visualization techniques using `ggplot2`, including Gapminder and Titanic case studies |
 
 > More folders will be added as each course progresses.
 
@@ -35,4 +35,16 @@ This repository contains coursework, code, and notes from two R-based programs o
 
 ## 📦 Dependencies
 
-The exercises primarily use base R functions. Additional packages such as `dslabs`, `ggplot2`, `rafalib`, `UsingR`, and `downloader` are used selectively and noted in each module’s README.
+The exercises primarily use base R functions.  
+Additional packages used across modules include:
+
+- `ggplot2`
+- `dplyr`
+- `dslabs`
+- `tidyverse`
+- `titanic`
+- `rafalib`
+- `UsingR`
+- `downloader`
+
+> Dependencies are noted in each module’s README.
