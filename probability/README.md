@@ -18,3 +18,4 @@ This folder contains exercises and visualizations from the HarvardX course *Data
 ## 📁 Files
 
 - `section1_esoph_discrete.R`: Discrete probability analysis using the built-in `esoph` dataset. Includes conditional probabilities for cancer cases and controls by alcohol/tobacco consumption level, AND/OR logic, and relative risk comparison between groups.
+- `section2_ACTscores_continuous.R`: Simulation and analysis of ACT test scores using a normal distribution. Includes calculations of mean, standard deviation, tail probabilities, Z-scores, quantiles, and CDF implementation.
