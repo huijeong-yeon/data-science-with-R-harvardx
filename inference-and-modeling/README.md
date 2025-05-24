@@ -23,7 +23,8 @@ This folder contains code and assessments from the HarvardX course *Data Science
 
 - `section1_parameters_estimates.R`: Analytical derivation of expected values and standard errors for binomial sampling. Covers sample totals, proportions, and differences in estimated proportions between groups.
 - `section2_central_limit_theorem.R`: Simulation-based exploration of the Central Limit Theorem. Includes histogram of sampling errors and analysis of how sample size affects standard error using visualizations and threshold detection.
-- `section3_confidence_interval_for_p.R`: Confidence interval estimation for the proportion of Clinton voters based on 2016 U.S. election polling data. Includes data filtering, proportion calculation, standard error derivation, and normal-based CI computation.
+- `section3_confidence_interval_for_p.R`: Confidence interval estimation for the proportion of Clinton voters based on 2016 U.S. election polling data. Includes data filtering, proportion calculation, standard error derivation, CI coverage evaluation, and hit rate summary.
+
 
 
 
