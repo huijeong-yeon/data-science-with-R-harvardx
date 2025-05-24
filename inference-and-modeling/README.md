@@ -21,4 +21,5 @@ This folder contains code and assessments from the HarvardX course *Data Science
 
 ## 📁 Files
 
-_(To be added as each section progresses)_
+- `section1_parameters_estimates.R`: Analytical derivation of expected values and standard errors for binomial sampling. Covers sample totals, proportions, and differences in estimated proportions between groups.
+
