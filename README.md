@@ -12,12 +12,13 @@ This repository contains coursework, code, and notes from two R-based programs o
 
 ## 🧠 Topics Covered
 
-- Descriptive statistics & probability
+- Descriptive statistics, discrete & continuous probability
 - Statistical inference & modeling
 - Data wrangling & productivity tools
-- **Data visualization with ggplot2**
+- Data visualization with ggplot2
 - Linear regression & machine learning
 - Capstone data analysis
+
 
 ---
 
@@ -28,6 +29,7 @@ This repository contains coursework, code, and notes from two R-based programs o
 | [`r-basics/`](./r-basics/) | PH125.1x | Exercises from R Basics (PH125.1x) |
 | [`statistics-and-r/`](./statistics-and-r/) | PH525.1x | Exercises from Statistics and R (PH525.1x) |
 | [`visualization/`](./visualization/) | PH125.2x | Visualization techniques using `ggplot2`, including Gapminder and Titanic case studies |
+| [`probability/`](./probability/) | PH125.3x | Simulations and analyses of discrete and continuous probability, including SAT/ACT modeling and CLT-based inference |
 
 > More folders will be added as each course progresses.
 
