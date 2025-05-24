@@ -22,4 +22,6 @@ This folder contains code and assessments from the HarvardX course *Data Science
 ## 📁 Files
 
 - `section1_parameters_estimates.R`: Analytical derivation of expected values and standard errors for binomial sampling. Covers sample totals, proportions, and differences in estimated proportions between groups.
+- `section2_central_limit_theorem.R`: Simulation-based exploration of the Central Limit Theorem. Includes histogram of sampling errors and analysis of how sample size affects standard error using visualizations and threshold detection.
+
 
