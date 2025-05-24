@@ -8,7 +8,6 @@ This folder contains exercises and visualizations from the HarvardX course *Data
 2. Continuous Probability  
 3. Random Variables and Sampling Models  
 4. Central Limit Theorem  
-5. Case Study: The Big Short
 
 ## 📦 Packages Used
 
@@ -19,3 +18,5 @@ This folder contains exercises and visualizations from the HarvardX course *Data
 
 - `section1_esoph_discrete.R`: Discrete probability analysis using the built-in `esoph` dataset. Includes conditional probabilities for cancer cases and controls by alcohol/tobacco consumption level, AND/OR logic, and relative risk comparison between groups.
 - `section2_ACTscores_continuous.R`: Simulation and analysis of ACT test scores using a normal distribution. Includes calculations of mean, standard deviation, tail probabilities, Z-scores, quantiles, and CDF implementation.
+- `section3_sat_guessing_simulation.R`: Simulation and analysis of SAT guessing behavior under both old and new scoring systems. Covers expected value, standard error, normal approximation (CLT), Monte Carlo simulation, and success probability thresholds by skill level.
+
