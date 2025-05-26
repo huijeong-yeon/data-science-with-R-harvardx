@@ -18,6 +18,8 @@ This folder contains code and assessments from the HarvardX course *Data Science
 - `tidyverse`
 - `dslabs`
 - `rafalib`
+- `dplyr`
+- `ggplot2`
 
 ## 📁 Files
 
@@ -26,7 +28,4 @@ This folder contains code and assessments from the HarvardX course *Data Science
 - `section3_confidence_interval_for_p.R`: Confidence interval estimation for the proportion of Clinton voters based on 2016 U.S. election polling data. Includes data filtering, proportion calculation, standard error derivation, CI coverage evaluation, and hit rate summary.
 - `section3_confidence_interval_for_d.R`: Computes the confidence interval for the difference in support (spread) between Clinton and Trump based on 2016 U.S. national election polls. Includes transformation from spread to proportion, standard error calculation, CI construction, hit rate evaluation, and pollster-wise error visualization (boxplots for all pollsters and those with ≥5 polls).
 - `section4_heights_statistical_models.R`: Statistical modeling with male height data from the `heights` dataset. Includes population parameter estimation, sampling-based confidence interval construction, and Monte Carlo simulation to estimate interval coverage probabilities.
-
-
-
-
+- `section4_polling_bias_visualization.R`: Visual and statistical comparison of polling spread (Clinton - Trump) across selected pollsters. Includes boxplots of spread values, pollster-wise standard deviations, difference-in-means estimation, p-value calculation, and filtering for pollsters with 5+ polls.
