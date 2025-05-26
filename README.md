@@ -30,6 +30,7 @@ This repository contains coursework, code, and notes from two R-based programs o
 | [`statistics-and-r/`](./statistics-and-r/) | PH525.1x | Exercises from Statistics and R (PH525.1x) |
 | [`visualization/`](./visualization/) | PH125.2x | Visualization techniques using `ggplot2`, including Gapminder and Titanic case studies |
 | [`probability/`](./probability/) | PH125.3x | Simulations and analyses of discrete and continuous probability, including SAT/ACT modeling and CLT-based inference |
+[`inference-and-modeling/`](./inference-and-modeling/) | PH125.4x | Confidence intervals, hypothesis testing, Bayesian statistics, and election forecasting using polling data |
 
 > More folders will be added as each course progresses.
 
