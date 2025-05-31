@@ -33,4 +33,4 @@ section2_Galton_Families_broom.R: Uses the broom package to fit and summarize li
 - `HistData`
 - `broom`
 
-> Each `.R` script is designed to be modular and reproducible. More sections will be added as the course progresses.
+> Each `.R` script is designed to be modular and reproducible.
