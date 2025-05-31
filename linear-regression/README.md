@@ -19,6 +19,7 @@ This repository contains code and exercises from the HarvardX course *Data Scien
 - `section1_Galton_Families_stratification_variance.R`: Uses the GaltonFamilies dataset to investigate the regression relationship between mothers' and daughters' heights and interprets the proportion of variance explained (R²).
 - `section2_Galton_Families_LSE.R`: Fits a linear regression model to predict mothers’ heights using daughters’ heights. Includes slope, intercept, and prediction comparison using the `lm()` and `predict()` functions.
 - section2_batting_LSE.R: Creates scatterplots and fits linear models comparing 2002 singles and BB rates with 1999–2001 averages. Used to assess year-to-year stability of batting metrics using the Lahman dataset.
+section2_Galton_Families_broom.R: Uses the broom package to fit and summarize linear regression models for each parent-child pair (e.g., father-daughter) in the GaltonFamilies dataset. Outputs observation counts, correlation coefficients, and regression summaries including estimates, standard errors, confidence intervals, and p-values.
 
 
 > More sections and files will be added as the course progresses.
@@ -31,5 +32,6 @@ This repository contains code and exercises from the HarvardX course *Data Scien
 - `dplyr`
 - `ggplot2`
 - `HistData`
+- `broom`
 
 > Each `.R` script is designed to be modular and reproducible. More sections will be added as the course progresses.
