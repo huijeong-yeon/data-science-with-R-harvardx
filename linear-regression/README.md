@@ -23,8 +23,6 @@ section2_Galton_Families_broom.R: Uses the broom package to fit and summarize li
 - `section2_baseball_regression.R`: Fits multivariate linear regression models of Runs (R) ~ BB + HR using Lahman Teams data from 1961 to 2018. Extracts yearly estimates for the effect of BB on R using `broom::tidy()`, plots trends over time, and fits a regression of BB impact over years.
 
 
-> More sections and files will be added as the course progresses.
-
 ---
 
 ## 📦 Packages Used
