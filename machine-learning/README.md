@@ -17,7 +17,7 @@ The course introduces supervised machine learning algorithms and evaluation meth
 
 ## 📁 Files
 
-
+- `section2_reported_heights_basics.R`: Uses class attendance type (inclass vs. online) to predict sex. Accuracy, sensitivity, specificity, and prevalence are calculated using `caret`.
 
 > More sections and files will be added as the course progresses.
 
@@ -25,6 +25,9 @@ The course introduces supervised machine learning algorithms and evaluation meth
 
 ## 📦 Packages Used
 
-
-
+- `dslabs`
+- `dplyr`
+- `lubridate`
+- `caret`
+  
 > Each `.R` script is designed to be modular and reproducible. More sections will be added as the course progresses.
