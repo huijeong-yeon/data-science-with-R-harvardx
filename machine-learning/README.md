@@ -2,6 +2,7 @@
 
 This repository contains code and exercises from the HarvardX course *Data Science: Machine Learning* (PH125.8x), part of the Data Science Professional Certificate.  
 The course introduces supervised machine learning algorithms and evaluation methods using R.
+
 ---
 
 ## 📅 Sections
