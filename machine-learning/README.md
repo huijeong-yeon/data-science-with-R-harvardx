@@ -19,6 +19,7 @@ The course introduces supervised machine learning algorithms and evaluation meth
 ## 📁 Files
 
 - `section2_reported_heights_basics.R`: Uses class attendance type (inclass vs. online) to predict sex. Accuracy, sensitivity, specificity, and prevalence are calculated using `caret`.
+- `section2_iris_basics.R`: Applies threshold-based binary classification using Petal.Width to distinguish virginica from versicolor. Also performs a grid search combining Petal.Length and Petal.Width to improve prediction accuracy.
 
 > More sections and files will be added as the course progresses.
 
