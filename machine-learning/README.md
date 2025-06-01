@@ -20,6 +20,7 @@ The course introduces supervised machine learning algorithms and evaluation meth
 
 - `section2_reported_heights_basics.R`: Uses class attendance type (inclass vs. online) to predict sex. Accuracy, sensitivity, specificity, and prevalence are calculated using `caret`.
 - `section2_iris_basics.R`: Applies threshold-based binary classification using Petal.Width to distinguish virginica from versicolor. Also performs a grid search combining Petal.Length and Petal.Width to improve prediction accuracy.
+- `section3_mortality_report_smoothing.R`: LOESS smoothing of daily mortality data extracted from PDF report. Uses span = 60 and degree = 1 for seasonal trend visualization.
 
 > More sections and files will be added as the course progresses.
 
@@ -31,5 +32,9 @@ The course introduces supervised machine learning algorithms and evaluation meth
 - `dplyr`
 - `lubridate`
 - `caret`
+- `tidyverse`
+- `pdftools`
+- `purrr`
+- `MASS`
   
 > Each `.R` script is designed to be modular and reproducible. More sections will be added as the course progresses.
