@@ -33,7 +33,6 @@ This repository contains coursework, code, and notes from two R-based programs o
 | [`inference-and-modeling/`](./inference-and-modeling/) | PH125.4x | Confidence intervals, hypothesis testing, Bayesian statistics, and election forecasting using polling data |
 | [`linear-regression/`](./linear-regression/) | PH125.7x | Baseball-driven exploration of linear models, including multivariate regression and sabermetrics-based player evaluation |
 
-> More folders will be added as each course progresses.
 
 ---
 
