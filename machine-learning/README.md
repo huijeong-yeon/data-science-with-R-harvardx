@@ -1,11 +1,11 @@
-# 🤖 Data Science: Machine Learning – HarvardX (PH125.8x)
+# Data Science: Machine Learning – HarvardX (PH125.8x)
 
 This repository contains code and exercises from the HarvardX course *Data Science: Machine Learning* (PH125.8x), part of the Data Science Professional Certificate.  
 The course introduces supervised machine learning algorithms and evaluation methods using R.
 
 ---
 
-## 📅 Sections
+## Sections
 
 1. Introduction to Machine Learning  
 2. Machine Learning Basics  
@@ -16,7 +16,7 @@ The course introduces supervised machine learning algorithms and evaluation meth
 
 ---
 
-## 📁 Files
+## Files
 
 - `section2_reported_heights_basics.R`: Uses class attendance type (inclass vs. online) to predict sex. Accuracy, sensitivity, specificity, and prevalence are calculated using `caret`.
 - `section2_iris_basics.R`: Applies threshold-based binary classification using Petal.Width to distinguish virginica from versicolor. Also performs a grid search combining Petal.Length and Petal.Width to improve prediction accuracy.
@@ -30,7 +30,7 @@ The course introduces supervised machine learning algorithms and evaluation meth
 
 ---
 
-## 📦 Packages Used
+## Packages Used
 
 - `dslabs`
 - `dplyr`
