@@ -1,10 +1,10 @@
-# 📏 Heights Dataset Exercise
+# Heights Dataset Exercise
 
 This folder contains solutions to questions based on the `heights` dataset from the `dslabs` package (HarvardX Data Science Professional Certificate – R Basics Section).
 
 ---
 
-## ✅ Topics Covered
+## Topics Covered
 
 - Mean, min, max, and logical indexing
 - Using `match()`, `%in%`, `sum()`, and `mutate()`
@@ -17,7 +17,7 @@ This folder contains solutions to questions based on the `heights` dataset from 
   
 - ---
 
-## 📦 Packages Used
+## Packages Used
 
 - `dslabs`
 - `dplyr`
