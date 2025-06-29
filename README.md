@@ -1,4 +1,4 @@
-# 📘 Data-science-with-R-harvardx
+# Data-science-with-R-harvardx
 
 This repository contains coursework, code, and notes from two R-based programs offered by HarvardX on edX:
 
@@ -10,7 +10,7 @@ This repository contains coursework, code, and notes from two R-based programs o
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - Descriptive statistics, discrete & continuous probability
 - Statistical inference & modeling
@@ -22,7 +22,7 @@ This repository contains coursework, code, and notes from two R-based programs o
 
 ---
 
-## 📁 Modules
+## Modules
 
 | Folder | Course | Description |
 |--------|--------|-------------|
@@ -36,7 +36,7 @@ This repository contains coursework, code, and notes from two R-based programs o
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 The exercises primarily use base R functions.  
 Additional packages used across modules include:
