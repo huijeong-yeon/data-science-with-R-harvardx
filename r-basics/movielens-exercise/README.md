@@ -1,17 +1,17 @@
-# 🎥 Movielens Dataset Exploration
+# Movielens Dataset Exploration
 
 This exercise is part of the HarvardX PH125.1x - R Basics course.
 
-## ✅ Covered Topics
+## Covered Topics
 
 - `nrow()`, `ncol()`
 - `class()` for variable type
 - `nlevels()` for factor analysis
 
-## 📦 Package Used
+## Package Used
 
 - `dslabs` (to load the `movielens` dataset)
 
-## 💻 File
+## File
 
 - `movielens_exploration.R`
