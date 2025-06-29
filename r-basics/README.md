@@ -1,8 +1,8 @@
-# 📘 R Basics – PH125.1x
+# R Basics – PH125.1x
 
 This folder contains exercises from the HarvardX course **Data Science: R Basics (PH125.1x)**.
 
-## ✅ Topics Covered
+## Topics Covered
 
 - Vectors, data types, and coercion
 - Data indexing and subsetting
@@ -10,7 +10,7 @@ This folder contains exercises from the HarvardX course **Data Science: R Basics
 - Working with datasets such as `movielens` and `ChickWeight`
 - Summary statistics and basic visualizations
 
-## 📁 Exercises
+## Exercises
 
 - `movielens-exercise/`: Analysis of movie ratings dataset (`dslabs::movielens`)
 - `olive-exercise/`: Fatty acid composition and exploratory plots (`dslabs::olive`)
