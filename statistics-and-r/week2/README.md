@@ -1,8 +1,8 @@
-# 📘 Week 2 – Statistics and R (HarvardX PH525.1x)
+# Week 2 – Statistics and R (HarvardX PH525.1x)
 
 This folder contains R scripts from Week 2 of the HarvardX course *Statistics and R*, focused on sampling distributions, population statistics, and simulation.
 
-## ✅ Topics Covered
+## Topics Covered
 
 - Downloading and preparing data from online sources
 - Working with numeric vectors
@@ -11,7 +11,7 @@ This folder contains R scripts from Week 2 of the HarvardX course *Statistics an
 - Using `for` loops for repeated sampling
 - Measuring sampling variability and estimating proportions
 
-## 📁 Files
+## Files
 
 - `week2_female_Controls_Population.R`: Simulates repeated sampling from a population of female control weights to evaluate sampling error and variability using absolute differences from the population mean.
 - `week2_gapminder_1952.R`: Analysis of life expectancy distribution across countries in 1952 using the gapminder dataset, including histogram and proportion of countries with life expectancy ≤ 40.
@@ -19,7 +19,7 @@ This folder contains R scripts from Week 2 of the HarvardX course *Statistics an
 - `week2_mice_pheno.R`: Analysis of male mice on the chow diet, including sample mean distribution, population statistics, and standard deviation using the `popsd()` function.
 - `week2_female_Mice_Weights.R`: Week 2 exercises using the Central Limit Theorem (CLT), including sample average calculation, standard error estimation, t-statistic computation, and p-value analysis for chow and high fat diets.
 
-## 📦 Packages Used
+## Packages Used
 
 - Base R
 - `gapminder`
