@@ -1,8 +1,8 @@
-# 📊 Week 3 – Statistics and R (HarvardX PH525.1x)
+# Week 3 – Statistics and R (HarvardX PH525.1x)
 
 This folder contains R scripts from Week 3 of the HarvardX course *Statistics and R*, focused on hypothesis testing, confidence intervals, permutation tests, and power simulations using the `babies.txt` dataset.
 
-## ✅ Topics Covered
+## Topics Covered
 
 - Confidence intervals using:
   - Central Limit Theorem (CLT)
@@ -13,11 +13,11 @@ This folder contains R scripts from Week 3 of the HarvardX course *Statistics an
   - Difference in means
   - Difference in medians
 
-## 📁 Files
+## Files
 
 - `week3_babies.R`: All simulation code for CLT, t-tests, permutation-based inference, and power estimation using the `babies.txt` dataset.
 
-## 📦 Packages Used
+## Packages Used
 
 - Base R
 - `dplyr`
