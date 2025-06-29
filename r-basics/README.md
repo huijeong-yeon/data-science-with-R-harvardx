@@ -12,6 +12,6 @@ This folder contains exercises from the HarvardX course **Data Science: R Basics
 
 ## Exercises
 
-- `movielens-exercise/`: Analysis of movie ratings dataset (`dslabs::movielens`)
-- `olive-exercise/`: Fatty acid composition and exploratory plots (`dslabs::olive`)
-- `heights-exercise/`: Statistical summaries, logical filtering, and unit conversions (`dslabs::heights`)
+- `movielens_exploration.R`: Analysis of movie ratings dataset (`dslabs::movielens`)
+- `olive_exploration.R`: Fatty acid composition and exploratory plots (`dslabs::olive`)
+- `heights_exploration(2).R`: Statistical summaries, logical filtering, and unit conversions (`dslabs::heights`)
